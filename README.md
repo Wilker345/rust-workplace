@@ -1,2 +1,2 @@
 # rust-workplace
-Repository made to centralise personal projects made to study and practice the rust language
+Repository for organizing personal projects made in Rust
